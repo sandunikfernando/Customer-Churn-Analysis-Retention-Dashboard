@@ -109,22 +109,6 @@ Dashboard Features
 * Combining tenure, contract, and payment method identifies high-risk segments for retention campaigns
 
 
-**📎 Project Structure**
-
-Customer-Churn-Analysis/
-│
-├── data/
-│   └── telco.csv
-├── sql/
-│   ├── table_creation.sql
-│   ├── data_cleaning.sql
-│   └── churn_eda.sql
-├── powerbi/
-│   └── churn_dashboard.pbix
-├── images/
-│   └── dashboard_screenshots.png
-└── README.md
-
 
 **🚀 Outcomes**
 
