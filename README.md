@@ -63,6 +63,7 @@ subscription_dim
 
 * Converted raw CSV data into normalized dimension and fact tables
 * Created surrogate keys for dimensions
+* Handled inconsistency data values
 * Ensured correct data types for numerical analysis
 * Validated referential integrity between tables
 
